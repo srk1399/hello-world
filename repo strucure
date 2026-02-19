@@ -1,0 +1,6 @@
+hello-world-aws/
+│
+├── README.md
+├── architecture-diagram.png
+├── nginx-config.conf
+└── index.html
